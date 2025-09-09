@@ -31,7 +31,7 @@ func RunP1() {
 	// 	//fmt.Println(m)
 	// }
 
-	// version 2
+	// version 02
 	for _, m := range matrix {
 		result = append(result, m...)
 	}
