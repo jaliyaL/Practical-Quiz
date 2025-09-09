@@ -1,12 +1,10 @@
 package main
 
 import (
-	"fmt"
-
-	"github.com/jaliyaL/practicalquiz/Set_03/p1"
+	"github.com/jaliyaL/practicalquiz/Set_03/p2"
 )
 
 func main() {
-	p1.RunP1()
-	fmt.Println("hi")
+	p2.RunP2()
+	//fmt.Println("hi")
 }
