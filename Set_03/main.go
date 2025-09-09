@@ -1,8 +1,9 @@
 package main
 
 import (
-	"Set_03/p1"
 	"fmt"
+
+	"github.com/jaliyaL/practicalquiz/Set_03/p1"
 )
 
 func main() {
