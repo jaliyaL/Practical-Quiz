@@ -7,6 +7,6 @@ import (
 )
 
 func main() {
-	p1.P1()
+	p1.RunP1()
 	fmt.Println("hi")
 }
